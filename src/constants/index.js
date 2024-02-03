@@ -174,30 +174,30 @@ const experiences = [
   },
 ];
 
-const testimonials = [
+const education = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+      "Bachelor of Management Studies",
+    name: "Shaheed Sukhdev College of Business Studies, DU",
+    designation: "CGPA :",
+    company: "8.73 (till 2nd Sem)",
+    timeline: "Nov 2022 - Present"
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
+      "ISC (Commerce) | ICSE (Science)",
+    name: "St.Georges's College, Agra",
+    designation: "Percentage :",
+    company: "95.4% | 94%",
+    timeline: "2021 | 2019"
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
+      "CA Foundation",
+    name: "ICAI",
+    designation: "Marks :",
+    company: "302/400 (Pass with distinction)",
+    timeline: "Nov 2022 - Present"
   },
 ];
 
@@ -402,12 +402,79 @@ const certificates = [
     image: pwc_visual,
     source_code_link: "https://github.com/",
   },
+  {
+    name: "Introduction to corporate finance",
+    description:
+      "Professional-grade: 30+ customizable Excel financial models, spanning simple interest to complex business scenarios – tailored for seamless integration into any company's financial strategy.",
+    tags: [
+      {
+        name: "Finance",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Excel",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Financial Modelling",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: corporate_finance,
+    source_code_link: "https://github.com/",
+  },
+  {
+    name: "Quantative Modelling",
+    description:
+      "Constructed my portfolio website using React for dynamic user interfaces, Three.js for immersive 3D graphics, and Tailwind for elegant styling. Employed a scalable and meticulously organized codebase, ensuring optimal performance.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "threejs",
+        color: "green-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "emailjs",
+        color: "orange-text-gradient",
+      },
+    ],
+    image: quantative,
+    source_code_link: "https://github.com/",
+  },
+  {
+    name: "Mathematics for Machine Learning",
+    description:
+      "A hotel booking platform integrating advanced search algorithms, a robust CMS, and secure payment features. Prioritizing user security with fortified authorization.",
+    tags: [
+      {
+        name: "MERN",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "cors",
+        color: "green-text-gradient",
+      },
+      {
+        name: "CMS",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: ml,
+    source_code_link: "https://github.com/",
+  },
 ];
 export {
   services,
   technologies,
   experiences,
-  testimonials,
+  education,
   projects,
   certificates,
 };

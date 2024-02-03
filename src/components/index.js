@@ -6,7 +6,7 @@ import Tech from "./Tech";
 import Experience from "./Experience";
 import Works from "./Works";
 import Certi from "./Certification";
-import Feedbacks from "./Feedbacks";
+import Education from "./Education";
 import Contact from "./Contact";
 import CanvasLoader from "./Loader";
 
@@ -18,12 +18,12 @@ export {
   Tech,
   Experience,
   Works,
-  Feedbacks,
   Contact,
   CanvasLoader,
   EarthCanvas,
   BallCanvas,
   ComputersCanvas,
   StarsCanvas,
-  Certi
+  Certi,
+  Education
 };
