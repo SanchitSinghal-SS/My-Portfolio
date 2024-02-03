@@ -22,7 +22,9 @@ import {
   pbi,
   python,
   excel,
-  ms_office
+  ms_office,
+  website,
+  web
 } from "../assets";
 
 export const navLinks = [
@@ -44,18 +46,24 @@ const services = [
   {
     title: "Data Analyst",
     icon: da,
+    skill: "Python, Excel, MS-Office, SQL, Power BI",
   },
   {
     title: "Researcher",
     icon: research,
+    skill:   "R, Python, Statistical Analysis, Visualizations, MS-Office",
   },
   {
     title: "Consultant",
     icon: consultant,
+    skill:
+      "Financial and Business Analysis, Powerpoint, Advance Excel, Problem Solving",
   },
   {
     title: "Software Developer",
     icon: sde,
+    skill:
+      "Python, Java, C#,C++, Web Development (Full Stack), Machine Learning",
   },
 ];
 
@@ -189,20 +197,20 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Financial Models",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Professional-grade: 30+ customizable Excel financial models, spanning simple interest to complex business scenarios – tailored for seamless integration into any company's financial strategy.",
     tags: [
       {
-        name: "react",
+        name: "Finance",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "Excel",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "Financial Modelling",
         color: "pink-text-gradient",
       },
     ],
@@ -210,41 +218,45 @@ const projects = [
     source_code_link: "https://github.com/",
   },
   {
-    name: "Job IT",
+    name: "My Portfolio Website",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Constructed my portfolio website using React for dynamic user interfaces, Three.js for immersive 3D graphics, and Tailwind for elegant styling. Employed a scalable and meticulously organized codebase, ensuring optimal performance.",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "threejs",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "tailwind",
         color: "pink-text-gradient",
       },
+      {
+        name: "emailjs",
+        color: "orange-text-gradient",
+      },
     ],
-    image: jobit,
+    image: website,
     source_code_link: "https://github.com/",
   },
   {
-    name: "Trip Guide",
+    name: "SwiftStay",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "A hotel booking platform integrating advanced search algorithms, a robust CMS, and secure payment features. Prioritizing user security with fortified authorization.",
     tags: [
       {
-        name: "nextjs",
+        name: "MERN",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "cors",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "CMS",
         color: "pink-text-gradient",
       },
     ],
@@ -252,12 +264,12 @@ const projects = [
     source_code_link: "https://github.com/",
   },
   {
-    name: "Car Rent",
+    name: "ThoughtFlow Hub",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "An advance SaaS product, built with NextJs, React, SSR, GraphQL, and Tailwind CSS, this project redefines web development with cutting-edge technologies, ensuring optimal performance and innovative coding solutions.",
     tags: [
       {
-        name: "react",
+        name: "NextJs",
         color: "blue-text-gradient",
       },
       {
@@ -265,7 +277,7 @@ const projects = [
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "WebSockets",
         color: "pink-text-gradient",
       },
     ],
