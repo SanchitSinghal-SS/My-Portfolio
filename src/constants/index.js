@@ -24,7 +24,13 @@ import {
   excel,
   ms_office,
   website,
-  web
+  web,
+  pwc_excel,
+  pwc_visual,
+  google_da,
+  corporate_finance,
+  quantative,
+  ml,
 } from "../assets";
 
 export const navLinks = [
@@ -51,7 +57,7 @@ const services = [
   {
     title: "Researcher",
     icon: research,
-    skill:   "R, Python, Statistical Analysis, Visualizations, MS-Office",
+    skill: "R, Python, Statistical Analysis, Visualizations, MS-Office",
   },
   {
     title: "Consultant",
@@ -284,6 +290,124 @@ const projects = [
     image: carrent,
     source_code_link: "https://github.com/",
   },
+  {
+    name: "ThoughtFlow Hub",
+    description:
+      "An advance SaaS product, built with NextJs, React, SSR, GraphQL, and Tailwind CSS, this project redefines web development with cutting-edge technologies, ensuring optimal performance and innovative coding solutions.",
+    tags: [
+      {
+        name: "NextJs",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "mongodb",
+        color: "green-text-gradient",
+      },
+      {
+        name: "WebSockets",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: carrent,
+    source_code_link: "https://github.com/",
+  },
+  {
+    name: "ThoughtFlow Hub",
+    description:
+      "An advance SaaS product, built with NextJs, React, SSR, GraphQL, and Tailwind CSS, this project redefines web development with cutting-edge technologies, ensuring optimal performance and innovative coding solutions.",
+    tags: [
+      {
+        name: "NextJs",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "mongodb",
+        color: "green-text-gradient",
+      },
+      {
+        name: "WebSockets",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: carrent,
+    source_code_link: "https://github.com/",
+  },
 ];
 
-export { services, technologies, experiences, testimonials, projects };
+const certificates = [
+  {
+    name: "Google Data Analyst Specialization",
+    description:
+      "Professional-grade: 30+ customizable Excel financial models, spanning simple interest to complex business scenarios – tailored for seamless integration into any company's financial strategy.",
+    tags: [
+      {
+        name: "Finance",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Excel",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Financial Modelling",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: google_da,
+    source_code_link: "https://github.com/",
+  },
+  {
+    name: "PWC Advance Excel",
+    description:
+      "Constructed my portfolio website using React for dynamic user interfaces, Three.js for immersive 3D graphics, and Tailwind for elegant styling. Employed a scalable and meticulously organized codebase, ensuring optimal performance.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "threejs",
+        color: "green-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "emailjs",
+        color: "orange-text-gradient",
+      },
+    ],
+    image: pwc_excel,
+    source_code_link: "https://github.com/",
+  },
+  {
+    name: "PWC Data Visualization",
+    description:
+      "A hotel booking platform integrating advanced search algorithms, a robust CMS, and secure payment features. Prioritizing user security with fortified authorization.",
+    tags: [
+      {
+        name: "MERN",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "cors",
+        color: "green-text-gradient",
+      },
+      {
+        name: "CMS",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: pwc_visual,
+    source_code_link: "https://github.com/",
+  },
+];
+export {
+  services,
+  technologies,
+  experiences,
+  testimonials,
+  projects,
+  certificates,
+};

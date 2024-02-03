@@ -1,4 +1,5 @@
 import logo from "./logo.svg";
+import coursera from "./coursera.png"
 import website from "./portWeb.jpeg"
 import backend from "./backend.png";
 import creator from "./creator.png";
@@ -29,7 +30,12 @@ import python from "./tech/python.png";
 import pbi from "./tech/pbi.png";
 import excel from "./tech/excel.png";
 import ms_office from "./tech/MS_office.png";
-
+import google_da from "./google_da.jpeg"
+import corporate_finance from "./corporate_finance.jpeg";
+import pwc_excel from "./pwc_excel.jpeg";
+import pwc_visual from "./pwc_visual.jpeg";
+import quantative from "./quantative.jpeg";
+import ml from "./ml.jpeg";
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
@@ -82,5 +88,12 @@ export {
   pbi,
   python,
   java,
-  website
+  website,
+  coursera,
+  ml,
+  google_da,
+  pwc_excel,
+  pwc_visual,
+  quantative,
+  corporate_finance,
 };
