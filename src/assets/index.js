@@ -5,6 +5,8 @@ import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
 import web from "./web.png";
+import mail from "./mail.png";
+import linkedin from "./linkedin.png";
 import da from "./da.png";
 import github from "./github.png";
 import menu from "./menu.svg";
@@ -46,6 +48,7 @@ import kreeda from "./company/kreeda.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+
 
 export {
   logo,
@@ -96,4 +99,6 @@ export {
   pwc_visual,
   quantative,
   corporate_finance,
+  linkedin,
+  mail
 };
