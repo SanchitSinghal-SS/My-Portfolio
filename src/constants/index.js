@@ -341,15 +341,15 @@ const certificates = [
       "Professional-grade: 30+ customizable Excel financial models, spanning simple interest to complex business scenarios – tailored for seamless integration into any company's financial strategy.",
     tags: [
       {
-        name: "Finance",
+        name: "R",
         color: "blue-text-gradient",
       },
       {
-        name: "Excel",
+        name: "Tableau",
         color: "green-text-gradient",
       },
       {
-        name: "Financial Modelling",
+        name: "SQL",
         color: "pink-text-gradient",
       },
     ],
@@ -362,19 +362,19 @@ const certificates = [
       "Constructed my portfolio website using React for dynamic user interfaces, Three.js for immersive 3D graphics, and Tailwind for elegant styling. Employed a scalable and meticulously organized codebase, ensuring optimal performance.",
     tags: [
       {
-        name: "react",
+        name: "Advance Excel",
         color: "blue-text-gradient",
       },
       {
-        name: "threejs",
+        name: "Scenario Analysis",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "Pivot Tables",
         color: "pink-text-gradient",
       },
       {
-        name: "emailjs",
+        name: "Goal Seeker",
         color: "orange-text-gradient",
       },
     ],
@@ -387,15 +387,15 @@ const certificates = [
       "A hotel booking platform integrating advanced search algorithms, a robust CMS, and secure payment features. Prioritizing user security with fortified authorization.",
     tags: [
       {
-        name: "MERN",
+        name: "Excel Dashboarding",
         color: "blue-text-gradient",
       },
       {
-        name: "cors",
+        name: "VBA",
         color: "green-text-gradient",
       },
       {
-        name: "CMS",
+        name: "Developer Tools",
         color: "pink-text-gradient",
       },
     ],
@@ -408,15 +408,15 @@ const certificates = [
       "Professional-grade: 30+ customizable Excel financial models, spanning simple interest to complex business scenarios – tailored for seamless integration into any company's financial strategy.",
     tags: [
       {
-        name: "Finance",
+        name: "TVM",
         color: "blue-text-gradient",
       },
       {
-        name: "Excel",
+        name: "Discounted Cash FLow Model",
         color: "green-text-gradient",
       },
       {
-        name: "Financial Modelling",
+        name: "Finance Basics",
         color: "pink-text-gradient",
       },
     ],
@@ -429,20 +429,16 @@ const certificates = [
       "Constructed my portfolio website using React for dynamic user interfaces, Three.js for immersive 3D graphics, and Tailwind for elegant styling. Employed a scalable and meticulously organized codebase, ensuring optimal performance.",
     tags: [
       {
-        name: "react",
+        name: "Linear Regression",
         color: "blue-text-gradient",
       },
       {
-        name: "threejs",
+        name: "Financial Modelling",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "Finance Concepts",
         color: "pink-text-gradient",
-      },
-      {
-        name: "emailjs",
-        color: "orange-text-gradient",
       },
     ],
     image: quantative,
@@ -454,15 +450,15 @@ const certificates = [
       "A hotel booking platform integrating advanced search algorithms, a robust CMS, and secure payment features. Prioritizing user security with fortified authorization.",
     tags: [
       {
-        name: "MERN",
+        name: "Linear Algebra",
         color: "blue-text-gradient",
       },
       {
-        name: "cors",
+        name: "Calculus",
         color: "green-text-gradient",
       },
       {
-        name: "CMS",
+        name: "Matrices",
         color: "pink-text-gradient",
       },
     ],
