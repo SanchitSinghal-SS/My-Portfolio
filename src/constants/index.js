@@ -31,6 +31,7 @@ import {
   corporate_finance,
   quantative,
   ml,
+  wip
 } from "../assets";
 
 export const navLinks = [
@@ -220,7 +221,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
+    image: wip,
     source_code_link: "https://github.com/",
   },
   {
@@ -287,13 +288,13 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
+    image: wip,
     source_code_link: "https://github.com/",
   },
   {
-    name: "ThoughtFlow Hub",
+    name: "Data Analytics Project 1",
     description:
-      "An advance SaaS product, built with NextJs, React, SSR, GraphQL, and Tailwind CSS, this project redefines web development with cutting-edge technologies, ensuring optimal performance and innovative coding solutions.",
+      "Woring.....",
     tags: [
       {
         name: "NextJs",
@@ -308,13 +309,13 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
+    image: wip,
     source_code_link: "https://github.com/",
   },
   {
-    name: "ThoughtFlow Hub",
+    name: "Data Analysis Project 2",
     description:
-      "An advance SaaS product, built with NextJs, React, SSR, GraphQL, and Tailwind CSS, this project redefines web development with cutting-edge technologies, ensuring optimal performance and innovative coding solutions.",
+      "Working......",
     tags: [
       {
         name: "NextJs",
@@ -329,7 +330,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
+    image: wip,
     source_code_link: "https://github.com/",
   },
 ];

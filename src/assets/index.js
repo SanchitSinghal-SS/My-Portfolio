@@ -1,3 +1,4 @@
+import wip from "./wip.jpg"
 import logo from "./logo.svg";
 import coursera from "./coursera.png"
 import website from "./portWeb.jpeg"
@@ -100,5 +101,6 @@ export {
   quantative,
   corporate_finance,
   linkedin,
-  mail
+  mail,
+  wip
 };
