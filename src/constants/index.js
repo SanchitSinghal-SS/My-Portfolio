@@ -338,7 +338,7 @@ const certificates = [
   {
     name: "Google Data Analyst Specialization",
     description:
-      "Professional-grade: 30+ customizable Excel financial models, spanning simple interest to complex business scenarios – tailored for seamless integration into any company's financial strategy.",
+      "Gain practical skills in data cleaning, analysis, and visualization essential for junior or associate data analysts. Learn to leverage spreadsheets, SQL, R programming, and visualization platforms to effectively organize, analyze, and present data insights.",
     tags: [
       {
         name: "R",
@@ -354,12 +354,12 @@ const certificates = [
       },
     ],
     image: google_da,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://shorturl.at/aDVZ9",
   },
   {
     name: "PWC Advance Excel",
     description:
-      "Constructed my portfolio website using React for dynamic user interfaces, Three.js for immersive 3D graphics, and Tailwind for elegant styling. Employed a scalable and meticulously organized codebase, ensuring optimal performance.",
+      "From basic functions to advanced features, I've mastered Microsoft 365 Excel, honing my skills through guided demonstrations and practical exercises. The final project demonstrates my proficiency in solving real-world business problems using Excel.",
     tags: [
       {
         name: "Advance Excel",
@@ -379,12 +379,12 @@ const certificates = [
       },
     ],
     image: pwc_excel,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://shorturl.at/zEJXY",
   },
   {
     name: "PWC Data Visualization",
     description:
-      "A hotel booking platform integrating advanced search algorithms, a robust CMS, and secure payment features. Prioritizing user security with fortified authorization.",
+      "Masterd advanced Excel functions including PowerPivot for database creation, scenario analysis, and data visualization. Learned to build dynamic dashboards with complex graphs and Power View reports.",
     tags: [
       {
         name: "Excel Dashboarding",
@@ -400,12 +400,12 @@ const certificates = [
       },
     ],
     image: pwc_visual,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://shorturl.at/npvN8",
   },
   {
     name: "Introduction to corporate finance",
     description:
-      "Professional-grade: 30+ customizable Excel financial models, spanning simple interest to complex business scenarios – tailored for seamless integration into any company's financial strategy.",
+      "I've acquired crucial finance skills, understanding concepts like time value of money and risk-return tradeoff. This knowledge enhances my ability to analyze financial scenarios and make informed decisions for personal and corporate finance.",
     tags: [
       {
         name: "TVM",
@@ -421,12 +421,12 @@ const certificates = [
       },
     ],
     image: corporate_finance,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://shorturl.at/fRV07",
   },
   {
     name: "Quantative Modelling",
     description:
-      "Constructed my portfolio website using React for dynamic user interfaces, Three.js for immersive 3D graphics, and Tailwind for elegant styling. Employed a scalable and meticulously organized codebase, ensuring optimal performance.",
+      "I've mastered quantitative modeling, analyzing past business data and forecasting future trends. Equipped with practical techniques, I can create effective models for informed decision-making in business.",
     tags: [
       {
         name: "Linear Regression",
@@ -442,12 +442,12 @@ const certificates = [
       },
     ],
     image: quantative,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://shorturl.at/apvAK",
   },
   {
     name: "Mathematics for Machine Learning",
     description:
-      "A hotel booking platform integrating advanced search algorithms, a robust CMS, and secure payment features. Prioritizing user security with fortified authorization.",
+      "I've mastered data representation with vectors and matrices, along with algebra operations and linear transformations crucial for machine learning. This course equipped me with essential mathematical skills to excel in data analysis and predictive modeling roles.",
     tags: [
       {
         name: "Linear Algebra",
@@ -463,7 +463,8 @@ const certificates = [
       },
     ],
     image: ml,
-    source_code_link: "https://github.com/",
+    source_code_link:
+      "https://coursera.org/share/d7743c4cc1c3529b9de17eac2498fb9b",
   },
 ];
 export {
