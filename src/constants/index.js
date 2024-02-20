@@ -31,7 +31,8 @@ import {
   corporate_finance,
   quantative,
   ml,
-  wip
+  wip,
+  da1
 } from "../assets";
 
 export const navLinks = [
@@ -292,30 +293,30 @@ const projects = [
     source_code_link: "https://github.com/",
   },
   {
-    name: "Data Analytics Project 1",
+    name: "Hypertension Prediction & Analysis",
     description:
-      "Woring.....",
+      "Analyzed hypertension dataset using Python libraries for data cleaning, visualization, and exploratory data analysis. Developed predictive model using logistic regression.",
     tags: [
       {
-        name: "NextJs",
+        name: "Python",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "Data Analytics",
         color: "green-text-gradient",
       },
       {
-        name: "WebSockets",
+        name: "Visualization",
         color: "pink-text-gradient",
       },
     ],
-    image: wip,
-    source_code_link: "https://github.com/",
+    image: da1,
+    source_code_link:
+      "https://drive.google.com/drive/folders/1UfcXJ47Kz7ql00z2Hm8mpnaFBcGaDbt2?usp=sharing",
   },
   {
     name: "Data Analysis Project 2",
-    description:
-      "Working......",
+    description: "Working......",
     tags: [
       {
         name: "NextJs",

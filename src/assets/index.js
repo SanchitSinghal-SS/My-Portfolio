@@ -1,3 +1,4 @@
+import da1 from "./da1.jpeg"
 import wip from "./wip.jpg"
 import logo from "./logo.svg";
 import coursera from "./coursera.png"
@@ -102,5 +103,6 @@ export {
   corporate_finance,
   linkedin,
   mail,
-  wip
+  wip,
+  da1
 };
